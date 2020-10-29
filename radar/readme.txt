@@ -1,0 +1,1 @@
+conection 5v trig->d8 echo d7

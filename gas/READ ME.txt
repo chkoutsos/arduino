@@ -1,0 +1,1 @@
+ΣΥΝΔΕΣΗ VCC +5V,GND GND, ANALOG OUT A0.
